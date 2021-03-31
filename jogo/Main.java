@@ -7,7 +7,7 @@ public class Main {
 		    
 		    
 		 System.out.println("__________________________________");
-		 System.out.println("Bem vindo a Guerrra! (ง'̀-'́)⚔️ (•̀o•́)ง");
+		 System.out.println("Bem vindo a Batalha! (ง'̀-'́)⚔️ (•̀o•́)ง");
 		 System.out.println("**********************************");
 		 System.out.println("");
 		 jogo.start();
